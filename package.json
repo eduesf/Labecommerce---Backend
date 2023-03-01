@@ -1,0 +1,23 @@
+{
+  "name": "labecommerce---backend-feedBack1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "par-ou-impar": "node par-ou-impar.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduesf/Labecommerce---Backend.git"
+  },
+  "keywords": [],
+  "author": "Eduardo_Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduesf/Labecommerce---Backend/issues"
+  },
+  "homepage": "https://github.com/eduesf/Labecommerce---Backend#readme"
+}
